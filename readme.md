@@ -17,7 +17,8 @@ Here you can easily find and navigate between repositories specific to a coursew
 
 
 **Repositories:**
-> https://github.com/estevao-s-dev/grade-system-challenge
+> Programming Logic Python Challenge - https://github.com/estev-s/grade-system-challenge
+
 
 
 
